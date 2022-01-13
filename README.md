@@ -93,7 +93,7 @@ This project is licensed under the [CC0 2.1 Universal](CODE_OF_CONDUCT.md)
 Creative Commons License - see the [LICENSE](LICENSE.md) file for
 details
 
-## Acknowledgments
+## Acknowledgements
 
 - **Daren Sin** - *Created Good First Issues, the inspriation for this project* - [darensin01](https://github.com/darensin01)
 - **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
